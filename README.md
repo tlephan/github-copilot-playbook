@@ -1,4 +1,4 @@
-# SWE Copilot Kit
+    # SWE Copilot Kit
 
 [![npm version](https://badge.fury.io/js/swe-copilot-kit.svg)](https://badge.fury.io/js/swe-copilot-kit)
 [![npm-ci](https://github.com/tlephan/swe-copilot-kit/actions/workflows/npm-ci.yml/badge.svg)](https://github.com/tlephan/swe-copilot-kit/actions/workflows/npm-ci.yml)
